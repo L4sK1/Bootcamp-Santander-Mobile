@@ -8,4 +8,5 @@ hello
 Ola! Bem vendo ao meu livro de receitas :wave:
 
 - Strogonoff de frango
+2
 >>>>>>> parent of 9bdffb9 (teste)
