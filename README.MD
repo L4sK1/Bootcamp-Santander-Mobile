@@ -8,6 +8,4 @@ Ola! Bem vendo ao meu livro de receitas :wave:
 
 - Pavê
 
-- Teste
-
-  
+- Test
