@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-hello
-=======
 # Livro de receitas :man_cook:
 
 
@@ -8,13 +5,6 @@ hello
 Ola! Bem vendo ao meu livro de receitas :wave:
 
 - Strogonoff de frango
-<<<<<<< HEAD
-
 - Pavê
+- bolo de cenoura
 
-- Test2
-
-=======
-2
->>>>>>> parent of 9bdffb9 (teste)
->>>>>>> 87dcb7f9b6fac263146937bc496130ccf8afcddb
